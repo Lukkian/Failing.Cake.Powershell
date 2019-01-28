@@ -1,4 +1,4 @@
-Failing.Cake.Powershell
+Issue: https://github.com/SharpeRAD/Cake.Powershell/issues/70
 
 Cake.Powershell addin is failing to debug in VSCode with this error message: Error: Cake.Core.CakeException: Failed to install addin 'Cake.Powershell'.
 
